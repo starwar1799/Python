@@ -1,3 +1,4 @@
-print("Hiiii Who are you?")
-print(777)
-print("Hello Person \n Lets do coding!")
+
+# User Input
+name = input("Enter your name: ")
+print("\n Hello", name, "\n Lets Code!")
