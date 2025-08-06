@@ -1,0 +1,4 @@
+#initalize A as string
+A= "Congratulations"
+#convert A to string
+print(str(A))
