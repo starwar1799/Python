@@ -12,5 +12,6 @@ A=77
 #convert A to float
 print(float(A))
 
-Y = "Srikara Kota"
-print(Y[1])
+Y = "Hello person"
+Z = " This is python"
+print("joined string:", Y+Z)
