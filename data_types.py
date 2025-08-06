@@ -15,3 +15,6 @@ print(float(A))
 Y = "Hello person"
 Z = " This is python"
 print("joined string:", Y+Z)
+
+string = "RaceCar"
+print(string[::-1])
