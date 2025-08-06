@@ -6,3 +6,8 @@ print(y)
 
 z = 3.14
 print(z)
+
+#initalize A as float
+A=77
+#convert A to float
+print(float(A))
