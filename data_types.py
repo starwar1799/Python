@@ -11,3 +11,6 @@ print(z)
 A=77
 #convert A to float
 print(float(A))
+
+Y = "Srikara Kota"
+print(Y[1])
