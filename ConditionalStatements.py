@@ -20,5 +20,15 @@ if(sellingprice>costprice):
    print(pt)
 
 else :
-   print("HAHHAHAHAHHAHAHAH LMAO NO PROFIT")
-   
+   print("HAHHAHAHAHHAHAHAH LOL NO PROFIT")
+
+ 
+
+#OddOrEven
+Number = input("Enter a number:")
+
+Calulate = Number%2
+if Calulate==0:
+    print(Number, "is even")
+else:
+    print(Number, "is odd")
