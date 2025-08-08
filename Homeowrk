@@ -1,6 +1,0 @@
-#Taking total amount as user input
-Input = int(input("Enter number."))
-Divisible= Input/Input*Input
-SquareRoot=Input*Divisible
-
-print("Answer is...",SquareRoot)
