@@ -21,3 +21,4 @@ if(sellingprice>costprice):
 
 else :
    print("HAHHAHAHAHHAHAHAH LMAO NO PROFIT")
+   
