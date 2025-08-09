@@ -12,3 +12,7 @@ if (Temperature>A):
     print("Dress warm, folks!")
 else:
      print("It'll be a c-c-cold day.")
+
+#Interchange numbers
+print("3/2+4=",False)
+print("4/2+3=",True)

@@ -45,3 +45,13 @@ mean2=SUM2/total_number
 print(mean2)
 
 #AverageSpeed
+
+A= int(input("Enter value: "))
+B= int(input("Enter value: "))
+C= int(input("Enter value: "))
+
+Avg= A+B+C/3
+print("Avg =", Avg)
+
+if Avg > A and Avg > B and Avg > C:
+    print()
